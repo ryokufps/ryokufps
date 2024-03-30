@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyto</h1>
 <h3 align="center">Passionate about technology, software development and cybersecurity.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justkyto&label=Profile%20views&color=0e75b6&style=flat" alt="justkyto" /> </p>
 
 <p align="left"> <a href="https://twitter.com/justkyto" target="blank"><img src="https://img.shields.io/twitter/follow/justkyto?logo=twitter&style=for-the-badge" alt="justkyto" /></a> </p>
 
@@ -23,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justkyto&show_icons=true&locale=en&layout=compact" alt="justkyto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justkyto&show_icons=true&locale=en" alt="justkyto" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justkyto&" alt="justkyto" /></p>
