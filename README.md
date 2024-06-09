@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- ⚡ Fun fact **I think I am very good at video games**
+- ⚡ Fun fact **I am very good at video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
